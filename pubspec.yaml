@@ -1,0 +1,6 @@
+name: z1_dart_gpt
+description: A tiny dependency-free GPT training and inference demo in pure Dart.
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
